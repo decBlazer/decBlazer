@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @decBlazer or Blaise Varughese.
 - I’m interested in Computer Science and am majoring in it at the University of Wisconsin-Madison.
--  I’m currently learning Java and R.
+-  I’m currently learning Java and Kotlin.
 -  Email: bvarughese@wisc.edu
 
 <!---
